@@ -14,6 +14,11 @@ public enum Languages {
     this.language = language;
   }
 
+  //Este metodo recibe un idioma y devuelve el idioma correspondiente
+  public static Languages getLanguage(String language){
+    return Arrays.stream(Languages.values()).filter(l -> l.language.equals(language)).findFirst().orElse(null);
+  }
+
   //Este metodo recibe una lista de idiomas y devuelve una lista de idiomas validos
   public static List<Languages> getLanguages(List<String> languages){
     return Arrays.stream(Languages.values()).map(l ->{
