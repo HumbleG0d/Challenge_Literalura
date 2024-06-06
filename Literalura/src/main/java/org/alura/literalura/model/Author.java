@@ -65,13 +65,17 @@ public class Author {
     this.books = books;
   }
 
+  private List<String> getBooksTitles(){
+    return books.stream().map(Books::getTitulo).toList();
+  }
+
   @Override
   public String toString() {
-    return "Author{" +
-            "name='" + name + '\'' +
-            ", birthYear=" + birthYear +
-            ", deathYear=" + deathYear +
-            '}';
+    return "Autor: " + name + "\n" +
+            "Fecha de nacimiento: " + birthYear + "\n" +
+            "Fecha de fallecimiento: " + deathYear + "\n" +
+            "Libros: " + this.getBooksTitles() + "\n";
   }
+
 }
 
