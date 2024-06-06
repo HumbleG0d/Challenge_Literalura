@@ -133,7 +133,6 @@ public class LiteraluraApp implements ILiteraluraApp{
 
   @Override
   public void listBooksByLanguage(){
-    sc.nextLine();
     System.out.println("""
             es -> Español
             en -> Ingles
@@ -141,7 +140,7 @@ public class LiteraluraApp implements ILiteraluraApp{
             """);
     var language = validator.getString(sc, "Ingrese el idioma que desea buscar: ");
     List<Books> books = bookRepository.searchBookByLanguage(Languages.getLanguage(language));
-    System.out.println("===== Libros en el idioma "+language+" =====");
+    System.out.println("===== Libros en el idioma "+Languages.getLanguage(language)+" =====");
     books.forEach(System.out::println);
     System.out.println("====================================");
   }
