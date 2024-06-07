@@ -46,35 +46,35 @@ El proyecto se divide en las siguientes carpetas:
 ## Ejecución de la aplicación
 **1. Buscar libros por titulo.**
 Para buscar libros por titulo se debe ingresar el titulo del libro que se desea buscar. La aplicación mostrará los libros que coincidan con el titulo ingresado.
-![](https://github.com/HumbleG0d/Challenge_Literalura/blob/Literalura/sources/EjecucionOpcion1.png)
+![](https://github.com/HumbleG0d/Challenge_Literalura/blob/main/Literalura/sources/EjecucionOpcion1.png)
 
 **2. Listar Libros registrados.**
 Para listar los libros registrados se debe seleccionar la opción 2. La aplicación mostrará todos los libros registrados.
-![](https://github.com/HumbleG0d/Challenge_Literalura/blob/Literalura/sources/EjecucionOpcion2.png)
+![](https://github.com/HumbleG0d/Challenge_Literalura/blob/main/Literalura/sources/EjecucionOpcion2.png)
 
 **3. Listar autores registrados.**
 Para listar los autores registrados se debe seleccionar la opción 3. La aplicación mostrará todos los autores registrados.
-![](https://github.com/HumbleG0d/Challenge_Literalura/blob/Literalura/sources/EjecucionOpcion3.png)
+![](https://github.com/HumbleG0d/Challenge_Literalura/blob/main/Literalura/sources/EjecucionOpcion3.png)
 
 **4. Listar autores vivos en un determinado año.**
 Para listar los autores vivos en un determinado año se debe seleccionar la opción 4. La aplicación solicitará el año del cual se desea conocer los autores vivos. La aplicación mostrará los autores vivos en el año ingresado.
-![](https://github.com/HumbleG0d/Challenge_Literalura/blob/Literalura/sources/EjecucionOpcion4.png)
+![](https://github.com/HumbleG0d/Challenge_Literalura/blob/main/Literalura/sources/EjecucionOpcion4.png)
 
 **5. Listar libros por idioma.**
 Para listar los libros por idioma se debe seleccionar la opción 5. La aplicación solicitará el idioma del cual se desea conocer los libros. La aplicación mostrará los libros en el idioma ingresado.
-![](https://github.com/HumbleG0d/Challenge_Literalura/blob/Literalura/sources/EjecucionOpcion5.png)
+![](https://github.com/HumbleG0d/Challenge_Literalura/blob/main/Literalura/sources/EjecucionOpcion5.png)
 
 ## Base de Datos
 - Modelo de la base de datos
-![](https://github.com/HumbleG0d/Challenge_Literalura/blob/Literalura/sources/Diagrama.png)
+![](https://github.com/HumbleG0d/Challenge_Literalura/blob/main/Literalura/sources/Diagrama.png)
 
 - Tabla de libros
-![](https://github.com/HumbleG0d/Challenge_Literalura/blob/Literalura/sources/TablaLibros.png)
+![](https://github.com/HumbleG0d/Challenge_Literalura/blob/main/Literalura/sources/TablaLibros.png)
 
 - Tabla de autores
-![](https://github.com/HumbleG0d/Challenge_Literalura/blob/Literalura/sources/TablaAutores.png)
+![](https://github.com/HumbleG0d/Challenge_Literalura/blob/main/Literalura/sources/TablaAutores.png)
 
 - Tabla de idiomas
-![](https://github.com/HumbleG0d/Challenge_Literalura/blob/Literalura/sources/TabalaIdiomas.png)
+![](https://github.com/HumbleG0d/Challenge_Literalura/blob/main/Literalura/sources/TabalaIdiomas.png)
 
 
