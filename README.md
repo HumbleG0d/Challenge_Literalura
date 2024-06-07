@@ -1,4 +1,5 @@
 # Challenge Literalura
+![](https://github.com/HumbleG0d/Challenge_Literalura/blob/main/Literalura/sources/InsigniaOracle.png)
 
 ## Descripción
 El reto consiste en crear una aplicación que permita a los usuarios buscar libros y ver los detalles de cada uno de ellos. La aplicación debe contar con las siguientes funcionalidades:
@@ -85,5 +86,4 @@ Para listar los libros por idioma se debe seleccionar la opción 5. La aplicaci�
 - Tabla de idiomas
 
 ![](https://github.com/HumbleG0d/Challenge_Literalura/blob/main/Literalura/sources/TablaIdiomas.png)
-
 
