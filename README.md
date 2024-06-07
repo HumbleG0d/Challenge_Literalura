@@ -66,7 +66,7 @@ Para listar los libros por idioma se debe seleccionar la opci√≥n 5. La aplicaci√
 
 ## Base de Datos
 - Modelo de la base de datos
-![](https://github.com/HumbleG0d/Challenge_Literalura/blob/main/Literalura/sources/Diagrama.png)
+![](https://github.com/HumbleG0d/Challenge_Literalura/blob/main/Literalura/sources/DiagramaER.png)
 
 - Tabla de libros
 ![](https://github.com/HumbleG0d/Challenge_Literalura/blob/main/Literalura/sources/TablaLibros.png)
